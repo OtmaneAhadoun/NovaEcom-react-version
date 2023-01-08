@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NovaEcom-react-version/static/css/main.0f6b6f0f.css",
+    "main.js": "/NovaEcom-react-version/static/js/main.fcb241c9.js",
+    "index.html": "/NovaEcom-react-version/index.html",
+    "main.0f6b6f0f.css.map": "/NovaEcom-react-version/static/css/main.0f6b6f0f.css.map",
+    "main.fcb241c9.js.map": "/NovaEcom-react-version/static/js/main.fcb241c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f6b6f0f.css",
+    "static/js/main.fcb241c9.js"
+  ]
+}
